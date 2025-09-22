@@ -234,5 +234,3 @@ This project is licensed under the **MIT License** – see the LICENSE file for 
 * Built with ❤️ for the data science community
 
 ---
-
-Would you like me to also **add badges** (Python version, License, Stars, etc.) at the top of the README to make it look even more professional?
